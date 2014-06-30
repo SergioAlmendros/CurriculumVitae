@@ -64,8 +64,10 @@
 
 \section{Education}
 
-\cventry{2011--2015}{Bachelor's degree in Telematics Engineering}{Pompeu Fabra University}{Barcelona}{}{}  % Arguments not required can be left empty
+\cventry{2009--2015}{Simultaneous studies on Computer Sciences and Telematics Engineering}{Pompeu Fabra University}{Barcelona}{}{}
+\cventry{2011--2015}{Bachelor's degree in Telematics Engineering}{Pompeu Fabra University}{Barcelona}{}{}
 \cventry{2009--2015}{Bachelor's degree in Computer Sciences}{Pompeu Fabra University}{Barcelona}{}{}
+\cventry{2007--2009}{CFGS in Telecommunication Systems and Computer Science}{F.P. Llefia}{Badalona}{}{}
 
 \section{Bachelor's Degree Final Project}
 
@@ -81,7 +83,7 @@
 
 \subsection{Vocational}
 
-\cventry{2014--Present}{Assistant Researcher}{\textsc{Pompeu Fabra University}}{Barcelona}{}{Development of a project under the Commons for Europe framework.
+\cventry{2013--Present}{Assistant Researcher}{\textsc{Pompeu Fabra University}}{Barcelona}{}{Development of a project under the Commons for Europe framework.
 \newline{}\newline{}
 Detailed achievements:
 \begin{itemize}
@@ -92,7 +94,7 @@ Detailed achievements:
 
 %------------------------------------------------
 
-\cventry{2009}{Computer technician}{\textsc{School of Sant Gabriel}}{Sant Adria}{}{}
+\cventry{2009}{Computer technician}{\textsc{School of Sant Gabriel}}{Sant Adria}{}{My functions were to maintain the computer equipment, solve computer problems, etc}
 
 %----------------------------------------------------------------------------------------
 %	AWARDS SECTION
@@ -110,6 +112,7 @@ Detailed achievements:
 \section{Computer skills}
 
 \cvitem{Advanced}{\textsc{C++}, I participated in a programming contest named SWERC (\url{http://swerc.eu/}) last year, and I am training for this year contest.}
+
 \cvitem{Intermediate}{\textsc{java}, \textsc{python}, \LaTeX, OpenOffice, Linux, Microsoft Windows}
 
 %----------------------------------------------------------------------------------------
